@@ -1,3 +1,5 @@
+# Consult [Wiki](https://github.com/ngry-project/library-template/wiki) for usage instructions
+
 [![build](https://github.com/ngry-project/<library-name>/workflows/build/badge.svg?branch=master)](https://github.com/ngry-project/<library-name>/actions?query=workflow%3Abuild)
 [![unit-tests](https://github.com/ngry-project/<library-name>/workflows/unit-tests/badge.svg?branch=master)](https://github.com/ngry-project/<library-name>/actions?query=workflow%3Aunit-tests)
 [![code-style](https://github.com/ngry-project/<library-name>/workflows/code-style/badge.svg?branch=master)](https://github.com/ngry-project/<library-name>/actions?query=workflow%3Acode-style)
